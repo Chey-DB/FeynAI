@@ -1,4 +1,6 @@
 # Gemma 2 AI Hackathon - FeynAI
+[Project URL](https://feyn-ai-jet.vercel.app/)
+
 
 ## Project Description
 - An app for the hungry learner who wants to discover what they don't know.
